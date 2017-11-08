@@ -12,6 +12,8 @@ _configs.sed
 aclocal.m4
 autom4te.cache
 build-aux
+build*
+CMakeLists.txt.user
 libtool
 folly/test/gtest
 folly/folly-config.h

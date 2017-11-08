@@ -12,7 +12,7 @@ find_package(Boost 1.55.0 MODULE
 )
 find_package(DoubleConversion MODULE REQUIRED)
 find_package(GFlags MODULE REQUIRED)
-find_package(GLog MODULE REQUIRED)
+find_package(Glog MODULE REQUIRED)
 find_package(LibEvent MODULE REQUIRED)
 find_package(OpenSSL MODULE REQUIRED)
 find_package(PThread MODULE)
